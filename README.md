@@ -3,12 +3,9 @@
 ## how to give a talk
 
 1. Come up with a good topic 🌈
-2. **Create new file** in the root directory using the button above 👆
-3. Name the file `yyyy-mm-dd <talk title>.md`, including the date of the talk 📅
-4. Describe what you’ll be speaking about in the file content 📣
-5. Use that green button to raise a pull request ✅
+2. **Create new readme file** i.e. `PEP-666-curly-braces-in-python.md` in the root directory named after your talk 👆
+3. Describe what you’ll be speaking about in the file content 📣
 
 **🤩 give your talk 🤩**
 
-6. Add links to the PR (slides? references? fun reads?) 👓
-7. Merge the PR! 👨‍🚀
+You may choose to work on your talk in a separate branch which you squash and merge into master only after your talk is given. It's up to you.
