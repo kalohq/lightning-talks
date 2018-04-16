@@ -6,8 +6,9 @@
 2. **Create new file** in the root directory using the button above 👆
 3. Name the file `yyyy-mm-dd <talk title>.md`, including the date of the talk 📅
 4. Describe what you’ll be speaking about in the file content 📣
+5. Use that green button to raise a pull request ✅
 
 **🤩 give your talk 🤩**
 
-5. Add links to the PR (slides? references? fun reads?) 👓
-6. Merge the PR! 👨‍🚀
+6. Add links to the PR (slides? references? fun reads?) 👓
+7. Merge the PR! 👨‍🚀
